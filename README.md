@@ -1,10 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=280&section=header&text=JuYeon_Oh&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=280&section=header&text=Boryeong_Kim&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
 
 
-<h3 align="center">Hi! I'm JuYeon </h3>
+<h3 align="center">Hi! I'm Boryeong </h3>
 <p align="center">
-  <a href="dhwndus456@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhwndus456@gmail.com)](mailto:dhwndus456@gmail.com)"/></a>&nbsp
-<a href="https://www.notion.so/2952eff417cc47279676e980cda75568?pvs=4"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></a>&nbsp</p>
+  <a href="dev.bbori@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.bbori@gmail.com)](mailto:dev.bbori@gmail.com)"/></a>&nbsp
+<a href="https://www.notion.so/234c582fd9e34eab83c7ec7b5d1071be"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></a>&nbsp</p>
 
 <br>
 
